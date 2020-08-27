@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  LocalizableExample
+
+  Created by Marcello Chuahy on 26/08/20.
+  Copyright © 2020 Applause Codes. All rights reserved.
+*/
+
+// IMPORTANT:
+// Localizable.strings is the default filename iOS uses for localized text. Don't rename it.
+// .strings file requires that each line terminate with a semicolon.
+
+// KEY --------------------------- TRANSLATION
+"languageString"                   = "English";
+"regionString"                     = "United States";
+"\"%@\" is an example of String"   = "\"%@\" is an example of String";
+"\"%d\" is an example of Int"      = "\"%d\" is an example of Int";
+"\"%.2f\" is an example of Double" = "\"%.2f\" is an example of Double";
+"\"%.0f%%\" is using percentage"   = "\"%.0f%%\" is using percentage";
+"%@ (style)"                       = "%@ (american style)";
+"%d units"                         = "%d units";
+
+// KEY --------------------------- IMAGE
+"flagImageView"                    = "eua";
