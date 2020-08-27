@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "System Region"; ObjectID = "3h8-fS-69X"; */
+"3h8-fS-69X.text" = "System Region";
+
+/* Class = "UILabel"; text = "1,000.0000"; ObjectID = "6CQ-5B-agv"; */
+"6CQ-5B-agv.text" = "1,000.0000";
+
+/* Class = "UILabel"; text = "Localizable number format:"; ObjectID = "Ebm-jd-GF2"; */
+"Ebm-jd-GF2.text" = "Localizable number format:";
+
+/* Class = "UILabel"; text = "3 units"; ObjectID = "Ftl-16-sRP"; */
+"Ftl-16-sRP.text" = "3 units";
+
+/* Class = "UILabel"; text = "2 units"; ObjectID = "ITs-ul-YJI"; */
+"ITs-ul-YJI.text" = "2 units";
+
+/* Class = "UILabel"; text = "August 26, 2020"; ObjectID = "JKl-38-SX1"; */
+"JKl-38-SX1.text" = "August 26, 2020";
+
+/* Class = "UILabel"; text = "Localizable plural:"; ObjectID = "Pwg-Rp-b1c"; */
+"Pwg-Rp-b1c.text" = "Localizable plural:";
+
+/* Class = "UILabel"; text = "1 unit"; ObjectID = "Q14-g1-JhI"; */
+"Q14-g1-JhI.text" = "1 unit";
+
+/* Class = "UILabel"; text = "08/26/2020"; ObjectID = "Wo1-yd-6Jm"; */
+"Wo1-yd-6Jm.text" = "08/26/2020";
+
+/* Class = "UILabel"; text = "Language:"; ObjectID = "YFS-tP-Rwl"; */
+"YFS-tP-Rwl.text" = "Language:";
+
+/* Class = "UILabel"; text = "String using param of Int type"; ObjectID = "cCg-cT-C5r"; */
+"cCg-cT-C5r.text" = "String using param of Int type";
+
+/* Class = "UILabel"; text = "String using scaped percentage"; ObjectID = "gC1-4l-kSF"; */
+"gC1-4l-kSF.text" = "String using scaped percentage";
+
+/* Class = "UINavigationItem"; title = "Localizable App"; ObjectID = "ghU-1x-Ayg"; */
+"ghU-1x-Ayg.title" = "Localizable App";
+
+/* Class = "UILabel"; text = "System Language"; ObjectID = "l0T-G6-ngP"; */
+"l0T-G6-ngP.text" = "System Language";
+
+/* Class = "UILabel"; text = "String using param of String type"; ObjectID = "nR9-O3-eZC"; */
+"nR9-O3-eZC.text" = "String using param of String type";
+
+/* Class = "UILabel"; text = "Localizable currency format:"; ObjectID = "pgd-CX-Usc"; */
+"pgd-CX-Usc.text" = "Localizable currency format:";
+
+/* Class = "UILabel"; text = "Localizable date format:"; ObjectID = "qu9-D7-W5X"; */
+"qu9-D7-W5X.text" = "Localizable date format:";
+
+/* Class = "UILabel"; text = "US$ 1,000.00"; ObjectID = "v3m-0B-Cp7"; */
+"v3m-0B-Cp7.text" = "US$ 1,000.00";
+
+/* Class = "UILabel"; text = "String using param of Double type"; ObjectID = "w7c-ef-ESP"; */
+"w7c-ef-ESP.text" = "String using param of Double type";
+
+/* Class = "UILabel"; text = "Localizable strings:"; ObjectID = "w8U-nL-RBM"; */
+"w8U-nL-RBM.text" = "Localizable strings:";
+
+/* Class = "UILabel"; text = "Region:"; ObjectID = "wUf-ey-iBB"; */
+"wUf-ey-iBB.text" = "Region:";
